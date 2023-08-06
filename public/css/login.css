@@ -1,0 +1,13 @@
+.float_l { float:left; }
+.float_r { float:right; }
+
+/* Background Color */
+body { background:#1f4d91 !important; }
+
+.mart5pr { margin-top:5%; }
+
+.login_title1 { font-size:20px; font-weight:bold; text-align:center; margin-bottom:25px; }
+.login_bg1 { background:#ffffff; padding:3%; border-radius:15px; width:30%; margin:0 auto; }
+
+.mart20 { margin-top:20px; }
+.mart30 { margin-top:30px; }
